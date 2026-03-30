@@ -1,9 +1,1 @@
-#  About Me:
-Bhavish Nithin<br>Developer | ML & Performance Car Enthusiast<br><br>I’m a developer focused on high-performance machine learning and systems programming. Currently, I'm building wLLM, a Windows-native inference engine designed to optimize LLM performance on consumer hardware. I enjoy diving into the weeds of memory management, tensor operations, and asynchronous architectures.<br><br>What I’m Working On<br>wLLM: A lightweight, pure Python/PyTorch inference engine for Windows, featuring zero-fragmentation tensor batching and native Hugging Face support.<br><br>Small Language Models: Experimenting with tool-calling and conversational capabilities in compact architectures.<br><br>Performance Optimization: Transitioning recursive tensor allocations to static O(1) operations and refining KV cache management.<br><br>Tech Stack & Hardware<br>Languages: C++, Python, Shell (Ubuntu/Windows dual-boot).<br><br>AI/ML: PyTorch, OpenVINO, vLLM, Transformers.<br><br>Tools: Git, uv, Obsidian, Zotero.<br><br>Daily Driver: ROG Zephyrus G14 (Ryzen 9 8945HS | RTX 4070).<br><br>Project Metrics<br>WinLLM Optimization: Recently achieved a 90% reduction in matrix instantiations per decode step by swapping F.pad for static view slicing.<br><br>Code Quality: Strong proponent of Conventional Commits and data-backed performance patches.
-
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Adervark) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+Hello
