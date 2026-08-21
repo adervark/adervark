@@ -16,8 +16,8 @@
 
 | Project | |
 |---|---|
-| **[AGEIS]** | Local-first intelligence engine in C++20. Corpus in, entity graph out, and a loop that hunts the connections nobody wrote down |
-| **[RSNA]** | Knee-MRI abnormality detection under severe label scarcity |
+| **AGEIS** | Local-first intelligence engine in C++20. Corpus in, entity graph out, and a loop that hunts the connections nobody wrote down |
+| **RSNA** | Knee-MRI abnormality detection under severe label scarcity |
 | **[snapstr](https://github.com/adervark/snapstr)** | Byte-level BPE tokeniser in C++, where every optimisation has to beat a predicted number |
 | **wLLM** | Continuous-batching LLM inference server, native to Windows |
 | **[LM From Zero](https://github.com/adervark/DLcourse)** | Code-first course: a Llama-style stack from first principles out to preference RL |
