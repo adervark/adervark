@@ -14,7 +14,7 @@
 
 ---
 
-| Project | Descrption |
+| Project | Description |
 |---|---|
 | **AGEIS** | Local-first intelligence engine in C++20. Corpus in, entity graph out, and a loop that hunts the connections nobody wrote down |
 | **RSNA** | Knee-MRI abnormality detection under severe label scarcity |
