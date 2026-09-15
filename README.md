@@ -1,4 +1,4 @@
-<h1 align="center">adervark</h1>
+<h1 align="center">Adervark</h1>
 
 <p align="center">
   <strong>Systems and ML, mostly where the two meet.<br>
