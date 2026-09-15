@@ -20,7 +20,7 @@
 | **RSNA** | Knee-MRI abnormality detection under severe label scarcity |
 | **[snapstr](https://github.com/adervark/snapstr)** | Byte-level BPE tokeniser in C++, where every optimisation has to beat a predicted number |
 | **[wLLM](https://github.com/adervark/wLLM)** | Continuous-batching LLM inference server, native to Windows |
-| **[LM From Zero](https://github.com/adervark/DLcourse)** | Code-first course: a Llama-style stack from first principles out to preference RL |
+| **[Model Gym](https://github.com/adervark/DLcourse)** | Code-first course: a Llama-style stack from first principles out to preference RL |
 
 Alongside: micrograd, minbpe, nanoGPT and GPT-2 reimplemented from scratch;
 reading `llama.cpp` and `sglang` for what only production code teaches.
