@@ -18,7 +18,7 @@
 |---|---|
 | **AGEIS** | Local-first intelligence engine in C++20. Corpus in, entity graph out, and a loop that hunts the intrinsic connections between entities|
 | **AGEION**| Data Engine that finds alpha in the internet haystack|
-| **[AGESight](https://github.com/adervark/AGESight)** | Agent-first, human-auditable software development. A plugin where agents claim work by commit, prove it with executable checks, and leave trails that survive crashes. All in git. |
+| **[AGEAris](https://github.com/adervark/AGEAris)** | Agent-first, human-auditable software development. A plugin where agents claim work by commit, prove it with executable checks, and leave trails that survive crashes. All in git. |
 | **RSNA** | Knee-MRI abnormality detection under severe label scarcity |
 | **[Model Gym](https://github.com/adervark/Model_Gym)** | Code-first course: a Llama-style stack from first principles out to preference RL |
 | **[snapstr](https://github.com/adervark/snapstr)** | Byte-level BPE tokeniser in C++, where every optimisation has to beat a predicted number |
